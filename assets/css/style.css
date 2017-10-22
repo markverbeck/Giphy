@@ -1,0 +1,50 @@
+body{
+	background-image: url("curls.png");
+	font-family: 'Schoolbell', cursive;
+}
+
+.bandButton{
+	background-color: #00aea6;
+    padding: 11px;
+    color: white;
+    border: solid white 2px;
+    margin: .5%;
+}
+
+#submit{
+	background-color: #00aea6;
+    padding: 11px;
+    color: white;
+}
+
+p, label{
+	color: white;
+}
+
+.gifSize{
+	width: 222px;
+    height: 171px;
+}
+.position{
+	margin-left: 4%;
+    padding: 2%;
+}
+
+.bandButton:hover{
+	background-color: #00938c;
+}
+#submit:hover{
+	background-color: #00938c;
+}
+
+.bandButton:active{
+	background-color: #00cec4;
+}
+
+#submit:active{
+	background-color: #00cec4;
+}
+
+#margin{
+	margin:1% 0 1% 0;
+}
